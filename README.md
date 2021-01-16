@@ -7,7 +7,7 @@ Predict Likelihood of Admission(Task details: Using the supplied predictive vari
 
 # Complete Guide for Linear Regression
 - Exploratory Data Analysis
-- Assumptions of Linear Regression
+- Assumptions of Linear Regression(Multicollinearity , Autocorrelation, Normality of residuals, Linear relationships amongst independent and dependent variable)
 - Cross Validation
 - Feature Selection using RandomForest Regressor
 - L1 and L2 Regularization
